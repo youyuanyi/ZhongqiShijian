@@ -1,0 +1,37 @@
+POST /ftn_handler/1509de01ed26d1ac0561a9d352b145b6?bmd5=1509de01ed26d1ac0561a9d352b145b6 HTTP/1.1
+Accept: */*
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Length: 262508
+Host: 123.151.176.211
+User-Agent: TXFTNActiveX_RawSocket
+
+ature=cc80ee93a16b33674d04c7f2183760d9 HTTP/1.1
+Host: www.d-fone.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/UNAVAILABLE (java 1.4)
+
+Óİ„áıWøv±¡ Eñ°‹ĞÿŒ»ÒGãp£#w¼à–G¿™éİhÔËøR¼o"(—X„1¥NÈÌ›U±
+ÙÚ!pL~hîNÖã''*Èä˜heÚ¿3£TÆl	©}iğ‚5ÌJ¶ªøƒÈ	Îı[v)!”Ñ¹tYƒPˆ5£ú¨q“Ûñ„ÿÉù
+7U:0r™8Aí—¡iÑXº(¹â±< a/4äiS­-+KÀ/°§µúê+–DéYÌU•wx†™{™=me2–ïá(ª¡q}Ğ¾8§CA0T§Jn›àÒ?³-Ûàs|C-æoÆô+ê’^9¸°cqÒı…û]õoÅ<]>„ ²Ÿx'W`>ëƒÍıà¸[â…l>ø6wLu¶ËŠ9¿&nŞ-ÉnU^	)ˆ@£õğj°úW
+©ºª¦ÚM@gpŒ=0¸»itÕ’yÙç½¸–ºRMS¥bİ°ôeŒFÏŠa©³¢RJN¾Â0Yäg,Z#óÚç˜"”b¢aØ-ŒÑ”øşä	“ÿæÌŸ7"ÙOn_-…c—Úú0>Ò¯,~Ï“i{.Ğ{íš|mR¾œBËènÙİ:%U<æú6q.Õğˆt&¸Z¼™Ô9e@½×“7Ò¬e@(Rİ°ş÷5[½ß\AéÛÍ3/dŞğálèµù&úñjÉ ¡C^Òh¿x_ÜÂl…ü™G@ÓıâÏô>Ç<¸GÂ‰;ZDÊtCKI¼è²mÓ„	4½ˆøcU¨uùi÷³MœN®àHí÷—1waæ’ÛÏ„Ì‘öe,ì’'`“10ğ Å0l±lØJâ£4¶ÒÆï^ş­Ú†[İÜ,süw×ıÉ˜QŸ¹21°æ²Ù`LP\‚7~Şº•èÆ¸ueşs‹Ê†Y¯°iæ=±òæš´?ª«ñÇ,Ã“r‚9‘–ÈªıAùßc
+ÄsJŸ5ğƒ3®îû§]¾Ş• ùÔG:it:v»i¯s–|¨;ù'§Â·xX–³[Ê)WR¾0ğĞ­šó¼"è{HÛñòƒ<0C¶¼ƒÎVìË¨‹au{šey¿_QTÏÎ~†/LIpVˆ`©£'”$·9&ÎÒÛüv¿S‚›Ÿ¡–Øw,ãùnç®Yµo§®õÿ¦º İûNí¢IÌé±³f§
+tÛfÊ>PHÀ4q®”™}æb++öüÃWt®§âX½Y{‘ê	ÚİBñÍÓå¾ÿ)İœ ÓŞ#âØ·çbĞpÉûT¹zsjßÕc†r·
+
+d:`Ø­‘^Z+%ÁĞ†õnXwXh§Ï<{Ënk¯ßÃîÎ¸£×•ÔÇi¨âÒëFFÒ<â¬¥uÒÍ»”m£ïô#Ÿ›t¡$ØƒYk$x¾ˆ%OCİ;European</family>
+  <description>Windows Central European</description>
+  <alias>ms-ce</alias>
+  <alias>windows-1250</alias>
+  <collation name="cp1250_general_ci"	id="26"	flag="primary">
+    <order>Hungarian</order>
+    <order>Polish</order>
+    <order>Romanian</order>
+    <order>Croatian</order>
+    <order>Slovak</order>
+    <order>Slovenian</order>
+    <order>Sorbian</order>
+  </collation>
+  <collation name="cp1250_croatian_ci"	id="44">
+    <order>Croatian</order>
+  </collation>
+  <collation name="cp1

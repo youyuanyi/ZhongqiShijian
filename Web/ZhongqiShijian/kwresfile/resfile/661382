@@ -1,0 +1,40 @@
+﻿@charset "utf-8";
+/* CSS Document */
+BODY {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "宋体","Arial Narrow"; BACKGROUND: #f3fafc; FONT-SIZE: 12px; 
+PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; color:#505050
+}
+body{ background-color:#89ac2a; }
+
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1,H2,H3,H4,H5,H6,S,B {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; 	FONT-SIZE: 12px; font-weight:normal
+}
+DL,DT,DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; 	
+}
+
+INPUT {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+small {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+TD,TH,DIV {
+	word-break:break-all; word-wrap:break-word;
+}
+/*
+input[type="button"],input[type="sub

@@ -1,0 +1,34 @@
+
+
+﻿body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+body,button,input,select,textarea{font:12px/1.5 tahoma,arial,\5b8b\4f53;color:#000000}
+body{background:#fff url(../images/bd-bg.gif) top repeat-x;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+a{color:#000000;text-decoration:none;}
+a:hover{text-decoration:underline;}
+img{border:0;}
+li{list-style:None;}
+button,input,select,textarea{font-size:100%;}
+*{word-wrap: break-word;}
+
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix{height:1%;}
+.clearfix{display:block;}
+/* End hide from IE-mac */
+
+.c{clear:both;line-height:0px;height:0px;font-size:0;overflow:hidden;}
+
+.fl{float:left}
+.fr{float:right;}
+
+.hidden{display:none;}
+
+.w-out{padding-bottom:40px;background:url(../images/footer-bg.gif) bottom center no-repeat;}
+.wrap{width:985px;margin:0 auto;}
+
+.header{position:relative;height:301px;overflow:Hidden;}
+
+.hd-link{position:absolute;top:4px;right:250px;color:#222;z-index:4;}
+.hd-link a{color:#222;margin:0 2

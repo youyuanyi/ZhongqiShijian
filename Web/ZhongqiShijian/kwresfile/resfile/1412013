@@ -1,0 +1,44 @@
+/**
+ * jQuery Lightbox
+ * Version 0.5 - 11/29/2007
+ * @author Warren Krewenki
+ *
+ * This package is distributed under the BSD license.
+ * For full license information, see LICENSE.TXT
+ *
+ * Based on Lightbox 2 by Lokesh Dhakar (http://www.huddletogether.com/projects/lightbox2/)
+ * Originally written to make use of the Prototype framework, and Script.acalo.us, now altered to use jQuery.
+ *
+ *
+ **/
+
+(function($){
+
+	$.fn.lightbox = function(options){
+		// build main options
+		var opts = $.extend({}, $.fn.lightbox.defaults, options);
+        
+		return this.each(function(){
+			$(this).click(function(){
+    		    // initalize the lightbox
+    		    initialize();
+				start(this);
+				return false;
+			});
+		});
+		
+	    /**
+	     * initalize()
+	     *
+	     * @return void
+	     * @author Warren Krewenki
+	     */
+	     
+	    function initialize() {
+		    $('#overlay').remove();
+		    $('#lightbox').remove();
+		    opts.inprogress = false;
+		    
+		    // if jsonData, build the imageArray from data provided in JSON format
+            if(opts.jsonData && opts.jsonData.length > 0) {
+                var parser = opts.jsonDataParser ? opts.jsonDataParser : $

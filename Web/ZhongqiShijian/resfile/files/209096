@@ -1,0 +1,25 @@
+GET /mmopen/Q3auHgzwzM4wlR1KyPaXrQ98iauDzib0WHOljgdsjIC9sl8UV3ib7E0dnyDhAPysWqt35zHfDibRTmQoeMzGGIHia0A/0 HTTP/1.1
+User-Agent: %E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB467(android)
+Host: wx.qlogo.cn
+Accept-Encoding: identity
+Connection: Keep-Alive
+
+õíÃ°hŸxc©bÖG¡NÖ(ÒtC‚Ñ™sü©áN›E_Æx³Ñ›©`H2n¡o æŒ“–¹Ó¬ôe&çdTÂUâ>Cäa¥ô!«âw¤hqÜı"©±èÊí»vìFÂCÌ·kyÆVlÈw+\#HZòÔ);¸vF‰~ÜÉÈV-IØ‡İÇ‹øW5ÜÖ6T/çšÌ$!—újYUù’zÆ‘îŠ~QŒÈ’†sa]?QeÜ`šv,‚èR‚cmLwON’IjÖT#º|E[¯—+rU¶K„NrEˆÍ@M†RuM`÷Ws+ÒMºÜä²Ç-Êô]—µ6ø±Kš[R×´Ìõ_dxÿ¿É½«ëø¯‡¯¦«ª¯ı+½Bp ªùqquú¿E½òïy'¤V®«Õ>ÒímLTTª¹îïğT(¾>ô¸š—XCú¢Û“U-£wó»ü´«`ş«‰`ğò¸¾ÿPeÀş\~ıü²şÅYÜ±cOÛÉú†>«6Ø_ÃOUU‰•OïTÊî‚Ÿuh>÷†ô‡ŞOµ·‡ˆù½¨Oå20‹‡«®âİ¼Çğ•>1Ûär#Ôn–÷6HßT‹¾îu…øá’fág9ce„“9»’3¹«5¯Š$€nM¸o®O-LÆ¿ş7°aİËK=Ô¦½Ô‘MÜò…ÙƒnBİ¤şBy/)q›SÂ‚ı«ZX*#÷ùÆq&lnôZÓ9ÎÑz1#×^Õ£„ÚH}ÉfÍ•ÑœÄè°nóI¾Á¯=X+¢öÁ’o&` f2s?F‰\Úês¨ÆÃŠæUHZšÊá<à\‡µIæ˜M©g¬ë¶è´•£‰­ÒËÔé©ö[¹I5DZÜ^ºâ.¡Hä-¬)÷jÀ-w)Œ$S¾¸•Ìç
+ÍÛ™şîlP-DçL¤¦½ KS™¹î[?ŒU¬tï2;{÷PİfDö%ãº›´‘®÷;¬Rb‰è;œ—VnÓİ$ìôk7Fø|ªînğ¶vå0äïf.‡P¿8‘õù?“Dvl·MDBj#[vïHšhFÚÃ—œ!m¬‰m•²6šâzJä–[t–q=Oi„šBM™‡w©"÷‹ :U	f	‘mpÂıˆ(c›9p>r^.Å­ó]"^\šÆÂB½Ü³*$«Ãi0êfQzİ7:²tìÍÌ1Üåæ°Ê8i*‹”É¿<Ö¥Ë¥†P£6)Åé©°m—F’[{TÈî&u²ìÙWÂ‚J—ØB#´G³W-¯fK'z"÷!%âè ¢=?r6¥Ê£ÚO%h÷k%q×µ2òKE@†ı¾FÚ`^‡±@ÊÈŞYÆ4é„öÖ8|ivB«wKÖ¡[Ó¼e§qÛ…[•œã;Jî»w³^ŸÔåXîÔÜ"Ğ)¹!ccœÚSn‡˜0Gç–ùÜ½O£¡]™›q–•óRìñ¨ZŠŠ¸XÁ¡íğ6Ç‘ßªÄÛİ‘'Œ°…—õ"Ø)M¹5`Ù¸¼óÀx;Ó’6ò;zO³YĞ¡/7YñUvÉ£Í^K•§2\:3ûõµç¯j=&lx°¡Ÿ­n=Ìµæ~*European</family>
+  <description>Windows Central European</description>
+  <alias>ms-ce</alias>
+  <alias>windows-1250</alias>
+  <collation name="cp1250_general_ci"	id="26"	flag="primary">
+    <order>Hungarian</order>
+    <order>Polish</order>
+    <order>Romanian</order>
+    <order>Croatian</order>
+    <order>Slovak</order>
+    <order>Slovenian</order>
+    <order>Sorbian</order>
+  </collation>
+  <collation name="cp1250_croatian_ci"	id="44">
+    <order>Croatian</order>
+  </collation>
+  <collation name="cp1250_polish_ci"  id="99">
+    <or

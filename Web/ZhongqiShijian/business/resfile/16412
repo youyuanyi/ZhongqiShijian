@@ -1,0 +1,21 @@
+
+
+﻿/* CSS Document */
+.s_clear:after, .line_list li:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.s_clear, .line_list li { zoom: 1; }
+* { word-wrap: break-word; margin:0 auto; padding:0; color:#000;}
+body {text-align:left; margin:0 auto;background:url(../images/bodybg.jpg) center 200px no-repeat;}
+#Form1 {background:url(../images/bodybg.jpg) center 200px no-repeat;}
+body, td, input, textarea, select, button {font: 12px/1.6em Helvetica, Arial, sans-serif; }
+ul, dl, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset { margin: 0; padding: 0; }
+ol, ul li { list-style: none; }
+h4 { color: #ffffff; padding-left:10px; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a img { border: none; }
+table { empty-cells: show; border-collapse: collapse; }
+html { overflow:-moz-scrollbars-vertical; } 
+img.double-border{padding: 2px;background: #eee; border:#ddd 1px solid;}
+.mainpicshow{ width:500px; height:310px; float:left; overflow:hidden;}
+.ldtc{background:url(../images/ldtc.jpg) left top no-repeat; float:left; width:230px; height:277px; position:relative; left:-10px;}
+.ldtc a{ w

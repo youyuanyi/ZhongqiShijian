@@ -1,0 +1,46 @@
+
+var FlashHelper_version = 1;
+
+function $() {
+  var elements = new Array();
+
+  for (var i = 0; i < arguments.length; i++) {
+    var element = arguments[i];
+    if (typeof element == 'string')
+      element = document.getElementById(element);
+
+    if (arguments.length == 1)
+      return element;
+
+    elements.push(element);
+  }
+
+  return elements;
+}
+
+
+/**************************************** FlashHelper ***************************************************/
+
+var FlashHelper = new Object();
+FlashHelper.height = 0;
+FlashHelper.width = 0;
+
+FlashHelper.shouldWaitForFlash = function() {
+// todo: should return 3 values: installed, notInstalled, silentInstall
+
+
+}
+
+FlashHelper.isFlashInstalled = function() {
+    var ret;
+    
+    if (typeof(this.isFlashInstalledMemo) != "undefined") { return this.isFlashInstalledMemo; }
+    
+    if (typeof(ActiveXObject) != "undefined") {
+        try {
+            var ieObj = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+        } catch (e) { }
+        ret = (ieObj != null);
+    } else {
+        var plugin = navigator.mimeTypes["application/x-shockwave-flash"];
+       

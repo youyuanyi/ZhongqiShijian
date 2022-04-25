@@ -1,0 +1,23 @@
+GET /qqfile/qq/QQ7.2/14799/QQ7.2.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: dldir1.qq.com
+Range: bytes=14221312-14237695
+Connection: Close
+Cache-Control: no-cache
+
+Ÿ³›ý¸.‡¥Ñ\“*¡Ð,Í©‚.¯NTöðX¶Çu¥=ëI+-nü ý8üKXÞ›Ëmd CÐ.ù™jO,noKs±ë$”zŒä¬CK™¢¶ RßJŒ=(ò‹õ“•E$=Ûh°Üà²Vƒ*dê8Ã6 ë	ÑTQ9ïÛHBäÎÇûX§²s(ô²g[ÛtjJƒ	Vœé°œ÷XïRËUÎGŽQ¢c÷˜ÿÄâ)š4½ 	b¬8î¨W¿íß¬GotÇø$ŽÕ(Õq=®-±ìg,Ï¥p±_ÑÉ‚J;óÜxM+Ï2Yì`¡ô[ž-qçÚ¡¤†Û™ŸŸk~ïÖ~Ï¤Ì®Ý—­IÇ;&~µ™¤B¤C¤²V—Pt0Û°q~ç±³Ÿ±–Š»d£Ý˜ªðáÊœ7§@²ÂOy˜Ëv—‘Èó‘ª¡V¤Ã.k… vàà¾Q%¼*Õïò8(¨#\”´-ºdû~™’¶ßêuFð6ö©ÄÐæ!|ù¯TØmi4ñ3?'{6«ÞŠó6…#‘£[w¿¼‡^7Z„"ÕÎNE‹y’êñ\Öô®lh/l©µŽÍâJœÔH'Nè‚WÃÈ]’éDëªïeÐ°dDÜâKÕ÷Rv¢¡yKçžšoð“KH°k½D¿iBb:+Ÿ•Ÿ:šÌ^ØÎ‰¹nå”voÌwQ%i·Ë`l’)ø“®e¬_ƒ˜ûÂ¾šÂÝðâŒÓ,ù@¯~EÔVFéÄ'·aéŠ°¢UÇÃD5DÉY&¡Ó7sðJXœ™”Òº!ôÉgž+(4W¥WÌãB™¤s³wÏZ>Ln` Yð&~Ý-üjÙ `ù"±»wéÛH®m©œ<¿¤·ÄKÚ¨ƒ©F]"‹þX@ž]ƒíµEß_0©¹€2Á«`‰Ua"cm& L•ßzd¥Õæƒ¡Tad5}Þ#Ü-1ÛØ&~]ñ6ÙjdyÂ¤›þ¡#Y2sflöì²(Ëþ§Ã¼ãygGÎg}ôŽ¤«p=/^5KŒ!Fh%ýYv²¬ð·øè}É{&âä»Wùª^Ö÷ÚíÏnÜ˜9ââÙÕê	"ô;xÚ€X'HtÔýpy!2²ÙLRú£‘L¨—,XÊYÿˆá
+ÏA(•ûÌš—0æ¾Œ¢ŒKv›ä…ù^tþÈÂ¢G¦Ë%+nZÀLeƒ×‰ø Ý´PJ­ÎÒ²&Žã&#,
+K9û=;›”ã®&[¨§¢®Ùía~hœ6ýŒÉD¹ÚïAÏýðõ»‘Eú;‘B”¶e±ÈvõÛýíÑENÆéÌ9BR1@µ<CÛ¨Îð»P¾&~hÇ;c™ï
+.ó€äÞOeþK'F@5Ü÷[½M![µG¸¸9ËtÃØ™‘ûõQ{Z¥4Ns±ô§à:NiSñZ*¹¶6"ë™žïlSÅôlø3ÊiìOÈutDŸv”Ð¯¨„î¶ˆžYÍ:–PÎÇòÅ¤$	ÎÆI¤ª£âöÂÓþZl©—i ÎyÇ€ì# ÅþZù„wC+b¸)”×IÂåB[EÆÂ”¤zÍa”ü÷`rtÒêX³ ñŸ=sŒeïÏr}vz­ d<%ê{;.EEj„European</family>
+  <description>Windows Central European</description>
+  <alias>ms-ce</alias>
+  <alias>windows-1250</alias>
+  <collation name="cp1250_general_ci"	id="26"	flag="primary">
+    <order>Hungarian</order>
+    <order>Polish</order>
+    <order>Romanian</order>
+    <order>Croatian</order>
+    <order>Slovak</order>
+    <order>Slovenian</order>
+    <order>

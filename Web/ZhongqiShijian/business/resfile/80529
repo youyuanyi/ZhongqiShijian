@@ -1,0 +1,51 @@
+
+
+(function($) {
+    $.fn.tab = function(options) {
+        var s = $.extend({
+			tit_current: "current",
+			eventtype:"mouseover",
+            delay: 0,
+			tabcontent:""
+        },
+        options || {}),
+		i=0,
+		handle_over=null;
+		var _tabtit=$(this);
+		if(_tabtit.length == 0) return;
+		$.each(this,function(){
+			if(s.eventtype=="mouseover"){
+				$(this).hover(
+				(function(j){
+					return function(){
+						handle_over = setTimeout(function(){
+							_tabtit.removeClass(s.tit_current).eq(j).addClass(s.tit_current);
+							$(s.tabcontent).filter(":visible").addClass("hidden").end().eq(j).removeClass("hidden");
+					},s.delay);
+					}
+				})(i),
+				function(){
+					handle_over && clearTimeout(handle_over);
+				})
+			}
+			else{
+				$(this).bind(s.eventtype,
+				(function(j){
+					return function(){
+						_tabtit.removeClass(s.tit_current).eq(j).addClass(s.tit_current);
+						$(s.tabcontent).filter(":visible").addClass("hidden").end().eq(j).removeClass("hidden");
+					}
+				})(i));
+			}
+			
+			i++;
+		});
+    }
+})(jQuery);
+
+jQuery.fn.couplet = function(settings){
+	settings = jQuery.extend({
+		width: 100,
+		height:300,
+		top:220,
+		leftCouple

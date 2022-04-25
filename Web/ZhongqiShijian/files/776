@@ -1,0 +1,13 @@
+POST /q HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: get.sogou.com
+Content-Length: 763
+Cache-Control: no-cache
+Cookie: YYID=338849141658A08866D25D5DD4A30A7B
+
+,2635,3974,4043,4166,4555,4614,4678,4811,16321,17665,17857,20289,25282,26433,28866,29122,41666,44930,57026&isApparel=true&isIFC=false&showShopProm=false&cartEnable=true&offlineShop=false&addressLevel=2&isRegionLevel=false&sellerUserTag3=144185556820082816&sellerUserTag4=1152921508903928195&tmallBuySupport=true&sellerUserTag2=18020085046181888&service3C=false&tgTag=false&itemId=35907226372&isForbidBuyItem=false&queryMemberRight=true&notAllowOriginPrice=false&tryBeforeBuy=true&isUseInventoryCenter=false&sellerPreview=false&callback=setMdskip&timestamp=1432282943061&areaId=110100&cat_id=2&q=%B0%CD%CE%F7+%CA%C0%BD%E7%B1%AD+%D7%E3%C7%F2&ref=http%3A%2F%2Flist.tmall.com%2Fsearch_product.htm%3Fq%3D%25B0%25A2%25B5%25CF%25B4%25EF%25CB%25B92014%25C4%25EA%25B0%25CD%25CE%25F7%25CA%25C0%25BD%25E7%25B1%25AD%25D7%25E3%25C7%25F2%26type%3Dp%26spm%3Da220o.0.a2227oh.d100%26from%3D.detail.pc_1_searchbutton HTTP/1.1
+Host: mdskip.taobao.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0
+Referer: http://detail.tmall.com/item.htm?spm=a220m.1000858.0.0.lO07eW&id=35907226372&skuId=67814949511&areaId=110100&is_b=1&cat_id=2&q=%B0%CD%CE%F7+%CA%C0%BD%E7%B1%AD+%D7%Euro
