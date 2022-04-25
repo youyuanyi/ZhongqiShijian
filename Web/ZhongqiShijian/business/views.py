@@ -284,7 +284,7 @@ def DefineHostType(request):
 def GetHttpRequestNum(request, role_id, pIndex=1):
     import pymysql
     # 1.连接
-    conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='YJC706989', db='lzc', charset='utf8')
+    conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='', db='lzc', charset='utf8')
     print(conn)
     # 2.创建游标
     cursor = conn.cursor()
@@ -320,7 +320,7 @@ def GetHttpRequestNum(request, role_id, pIndex=1):
 def GetHttpResponseNum(request, role_id, pIndex=1):
     import pymysql
     # 1.连接
-    conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='YJC706989', db='lzc', charset='utf8')
+    conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='', db='lzc', charset='utf8')
     print(conn)
     # 2.创建游标
     cursor = conn.cursor()
@@ -553,7 +553,7 @@ def ListResponse(request, role_id, pIndex=1):
         headidlist.append(data.headid)
         # 打开数据库连接
         # 1.连接
-        conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='YJC706989', db='lzc', charset='utf8')
+        conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='', db='lzc', charset='utf8')
 
         cursor = conn.cursor()
 
